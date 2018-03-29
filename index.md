@@ -5,7 +5,7 @@
 </head>
 <body>
 <body style="background-color:powderblue;">
-<font color="white">
+<font color="black">
 <h1> Home </h1>
 
 <img src="http://www.theprepperjournal.com/wp-content/uploads/2016/11/NaturalDisasters.jpg" alt="Natural Disasters" width="400" height="250">
