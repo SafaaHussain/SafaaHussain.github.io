@@ -218,4 +218,26 @@ alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300"
 	Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.
 
 
+</p>
+
+<p>Here are some fun games to practice your learning! These are from Scratch, all credits go there.</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPq4Bal9XBG4GxpIJ_X7ODHvth0KABmTRxqZyqLd4pHz6dxB0z" alt="games" width="200" height="125">
+<img src="https://cdn.pixabay.com/photo/2012/04/18/13/01/check-list-36969_960_720.png" alt="a+" width="150" height="125">
+
+      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/199905744/?autostart=false" frameborder="0" allowfullscreen></iframe>
+
+      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/204184543/?autostart=false" frameborder="0" allowfullscreen></iframe>
+
+      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/186770859/?autostart=false" frameborder="0" allowfullscreen></iframe>
+
+
+
+    
+    
+
+
+
+
+
 
