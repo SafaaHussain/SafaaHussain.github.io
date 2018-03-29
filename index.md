@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<body bgcolor="#E6E6FA">
+<body style="background-color:powderblue;">
 <font color="white">
 <h1> Home </h1>
 
