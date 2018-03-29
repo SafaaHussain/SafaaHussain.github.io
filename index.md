@@ -58,8 +58,7 @@ https://www.wikihow.com/Prepare-for-an-Earthquake
 </body>
 </html>
 
-<!DOCTYPE html>
-<html>
+
 <head>
 <h1>Fires</h1>
 </head>
