@@ -105,4 +105,47 @@ Special thanks to: http://prevention1st.org/7-simple-steps-for-fire-safety/
 </body>
 </html>
 
+<!.DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<h1>FLOODS<h1>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/3/3d/KatrinaNewOrleansFlooded_edit2.jpg" width = "400" height = "450">
+<p>
+Flooding happens when an overflow of water occurs on land that is normally dry. Flooding can happen with only a few inches of water or massive amounts of snowfall. Flooding can happen for a variety of different reasons. It can happen for both long and short periods of time. Some floods occur without any warning, and are aptly named flash floods.
+
+
+What to do:
+- Do not drive through of walk though floods.
+
+  --> 6 inches of moving water can knock you down!
+- Always move to higher ground, do not stay in your car if flooding should occur.
+- Prepare your home for flood 
+
+  --> Disconnect electrical appliances
+
+  --> Turn off gas and electricity if instructed.
+
+  --> Move valuable objects to a higher ground.
+- Flood warning
+
+  --> Go to higher ground.
+
+  --> Do not walk or drive through flood waters.
+
+- After the flood
+
+  --> Return home when the authorities say it is safe.
+
+  --> Avoid standing water and flooded areas because you may get an electrical shock.
+
+
+</p>
+
+</body>
+</html>
+
+
 
