@@ -60,7 +60,7 @@ https://www.wikihow.com/Prepare-for-an-Earthquake
 <!DOCTYPE html>
 <html>
 <head>
-<title>Fires</title>
+<h1>Fires</h1>
 </head>
 <body>
 
