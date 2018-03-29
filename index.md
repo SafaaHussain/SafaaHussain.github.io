@@ -24,7 +24,7 @@ Click on the following to go to our pages.
 </html>
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 
