@@ -16,7 +16,7 @@ Learn about and experience all natural disasters through games and more!</hl>
 Click on the following to go to our pages. 
 
 </p>
-<div style="background-color:#2a60b7;color:PowederBlue;padding:10px;'>
+
 <p> Earthquakes </p>
 </div >
 
