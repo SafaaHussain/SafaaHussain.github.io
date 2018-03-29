@@ -147,5 +147,75 @@ What to do:
 </body>
 </html>
 
+<!DOCTORTYPE html>
+<html>
+<head>
+<title> HURRICANES </title>
+</head>
+<body>
+
+<h1>A Deadly Tropical Storm</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_1996.jpg"
+alt="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_1996.jpg" width="450" height="400">
+
+<p>Hurricanes are one of the deadliest and costliest natural disasters. There are roughly 85 hurricanes a year, but not all of them cause as much damage as Hurricane Katrina which killed 1,836 people and cost $100 BILLION in property damage. In order to be prepared for the disaster, for you never know when it might strike, you should follow the advice below.
+
+1. Create a hurricane kit. 
+It should contain:
+    
+     *water (one gallon per person, a week's supply)
+     
+     *non-perishable foods that don't need to be cooked such as:
+      canned fruits, soups, ready-to-eat canned meats, peanut butter, bread, cereal, oatmeal, crackers, pet food (IF YOU 
+      HAVE A PET: DON'T EAT THIS!!!), lots of Halloween candy, etc.
+
+     *cooler for storing food in 
+
+     *cell phone or portable, windup radio
+
+     *important documents (wills, insurance records, medical records)
+
+     *extra clothing (preferably waterproof)
+
+     *cash, LOTS of it! (at least $200)
+
+     *personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)
+
+     *blankets and sleeping bags
+
+     *first aid kit
+	    (tweezers, pocket/utility knife, bandages, gauze, disinfectant wipes, etc.)
+       	
+     *cooking utensils 
+
+     *matches or firelighter (make sure these are waterproof or in a watertight bag!)
+
+     *disposable utensils
+
+     *flashlight with extra batteries
+
+     *rolls of heavy plastic or heavy duty plastic bags
+     
+     *life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)
+
+     *hand-operated can opener
+
+     *shovels 
+
+     *heavy rope
+
+     *prescription medicine (inhalers, allergy medicine, Tylenol, etc.) 
+
+     *insect repellant (For those nasty misquotes!) 
+
+     *board games, funny cat pictures, or other activities to keep yourself from dying from boredom (if you bring 
+      Monopoly, make sure to bring extra money so you can help yourself... wink wink)
+
+2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!
+<img src="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/"
+alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300" height="400">
+3. Protect your home! 
+	Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.
+
 
 
