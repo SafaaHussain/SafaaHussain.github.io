@@ -11,7 +11,9 @@
 <hl>Welcome to the official Natural Disaster Prep Website!
 Learn about and experience all natural disasters through games and more!</hl>
 <p>Natural disasters can happen anytime and anywhere. From flooding to earthquakes to snowstorms, these disasters are harmful to the communities. In order to be prepared, here are a few tips and info to help you know what to do. Let's go!
-Click on the following to go to our pages. </p>
+Click on the following to go to our pages. 
+
+</p>
 <div style="background-color:#2a60b7;color:PowederBlue;padding:10px;'>
 <p> Earthquakes </p>
 </div >
