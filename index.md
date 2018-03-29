@@ -4,7 +4,8 @@
 
 </head>
 <body>
-<body bgcolor="#E6E6FA">	
+<body bgcolor="#E6E6FA">
+<font color="white">
 <h1> Home </h1>
 
 <img src="http://www.theprepperjournal.com/wp-content/uploads/2016/11/NaturalDisasters.jpg" alt="Natural Disasters" width="400" height="250">
@@ -263,6 +264,8 @@ REMEMBER: YOU CAN NEVER BE TOO PREPARED!!!
 
 
 Special thanks to: http://www.earthtimes.org/encyclopaedia/environmental-issues/natural-disasters/ </p>
+
+</font>
 
 
 
