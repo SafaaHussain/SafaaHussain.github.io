@@ -220,7 +220,7 @@ alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300"
 
 </p>
 
-<h> Natural Disaster Games </h>
+<h1> Natural Disaster Games </h1>
 
 <p>Here are some fun games to practice your learning! These are from Scratch, all credits go there.</p>
 
@@ -232,6 +232,37 @@ alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300"
       <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/204184543/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
       <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/186770859/?autostart=false" frameborder="0" allowfullscreen></iframe>
+      
+      
+<h1> What causes natural disasters? </h1>
+
+<p>Natural disasters are caused by 3 main things:
+
+1. The movement of Earth's plates
+          - These are sudden and unexpected
+          - Ex.) Volcanoes, tsunamis, earthquakes
+
+2. Weather related disasters
+          - There is some advanced warning, but they cannot be stopped
+          - Ex.) Hurricanes, tornadoes, extreme heat/cold
+
+3. Consequences of extreme weather events
+          - They are the result of extreme, unforeseen disasters
+          - Ex.) Floods, mudslides, landslides
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Active_Margin.svg/2000px-Active_Margin.svg.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Active_Margin.svg/2000px-Active_Margin.svg.png" width="304" height="242">
+
+
+
+<p> 
+
+
+REMEMBER: YOU CAN NEVER BE TOO PREPARED!!!
+
+
+
+Special thanks to: http://www.earthtimes.org/encyclopaedia/environmental-issues/natural-disasters/ </p>
+
 
 
 
