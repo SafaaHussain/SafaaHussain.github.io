@@ -57,4 +57,52 @@ https://www.wikihow.com/Prepare-for-an-Earthquake
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fires</title>
+</head>
+<body>
+
+<p>Fires can be extremely dangerous!</p>
+<p>Prevent fires in your own home. Play these games and learn how to stay safe in an emergency fire!</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Bush_fire_at_Captain_Creek_central_Queensland_Australia..JPG" alt="https://cdn.pixabay.com/photo/2014/03/24/13/49/fire-294487_960_720.png" width="304" height="242">
+
+<img src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/microsoft/17/heavy-check-mark_2714.png" alt="https://emojipedia-us.s3.amazonaws.com/thumbs/160/microsoft/17/heavy-check-mark_2714.png" width="154" height="142">
+
+<p>******************************</p>      
+<p>*Remember these tips to prevent fires in your own home:*</p>
+
+<p>1. Turn off portable space heaters when you aren't using them. Heating equipment is the source of an additional 24% of home fire fatalities.</p>
+
+<p>2. Turn off the stove if you have to leave the room. Cooking equipment is a leading source of home fire injuries!</p>
+
+<p>3. Keep matches and lighters out of reach of children, especially under the age of 5.</p>
+
+
+<p>******************************</p>
+<p>Remember these tips to stay safe during a fire:</p>
+
+<p>1. Install a smoke alarm. One working smoke alarm in each bedroom is best, or at least one per floor.</p>
+
+<p>2. Regularly test that your fire alarm is still working.</p>
+
+<p>2. Plan and practice a home fire drill. Make sure everyone in your home knows how to follow the plan to keep you all safe!</p>
+
+<p>******************************</p>
+<p>Call a family meeting to ensure that you have a plan to:</p>
+
+<p>*Get out right away!</p>
+<p>*Go directly to your meeting place, where firefighters can see you clearly.</p>
+<p>*Don't go back inside for anything! This is too risky!</p>
+<p>*Call 9-1-1 immediately! Provide your precise address.</p>
+
+<p>******************************</p>
+Special thanks to: http://prevention1st.org/7-simple-steps-for-fire-safety/
+
+
+</body>
+</html>
+
 
