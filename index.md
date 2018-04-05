@@ -113,6 +113,9 @@ Special thanks to: http://prevention1st.org/7-simple-steps-for-fire-safety/
 </head>
 <body>
 <h1>FLOODS<h1>
+	
+<pre>
+
 <img src = "https://upload.wikimedia.org/wikipedia/commons/3/3d/KatrinaNewOrleansFlooded_edit2.jpg" width = "400" height = "450">
 <p>
 Flooding happens when an overflow of water occurs on land that is normally dry. Flooding can happen with only a few inches of water or massive amounts of snowfall. Flooding can happen for a variety of different reasons. It can happen for both long and short periods of time. Some floods occur without any warning, and are aptly named flash floods.
@@ -144,6 +147,8 @@ What to do:
 
 
 </p>
+
+</pre>
 
 </body>
 </html>
