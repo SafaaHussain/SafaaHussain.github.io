@@ -151,7 +151,7 @@ What to do: <br>
 </body>
 </html>
 
-<!DOCTORTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title> HURRICANES </title>
