@@ -114,7 +114,6 @@ Special thanks to: http://prevention1st.org/7-simple-steps-for-fire-safety/
 <body>
 <h1>FLOODS<h1>
 	
-<pre>
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/3/3d/KatrinaNewOrleansFlooded_edit2.jpg" width = "400" height = "450">
 <p>
@@ -148,7 +147,6 @@ What to do:
 
 </p>
 
-</pre>
 
 </body>
 </html>
