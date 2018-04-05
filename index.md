@@ -123,15 +123,15 @@ Flooding happens when an overflow of water occurs on land that is normally dry. 
 What to do: <br>
 - Do not drive through of walk though floods. <br>
 
-  --> 6 inches of moving water can knock you down! <br>
-- Always move to higher ground, do not stay in your car if flooding should occur. <br>
+  --> 6 inches of moving water can knock you down! 
+- Always move to higher ground, do not stay in your car if flooding should occur. 
 - Prepare your home for flood <br> 
 
-  --> Disconnect electrical appliances <br>
+  --> Disconnect electrical appliances 
 
-  --> Turn off gas and electricity if instructed. <br>
+  --> Turn off gas and electricity if instructed. 
 
-  --> Move valuable objects to a higher ground. <br>
+  --> Move valuable objects to a higher ground.
 - Flood warning <br>
 
   --> Go to higher ground. <br>
