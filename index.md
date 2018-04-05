@@ -240,19 +240,19 @@ alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300"
       
 <h1> What causes natural disasters? </h1>
 
-<p>Natural disasters are caused by 3 main things:
+<p>Natural disasters are caused by 3 main things: <br>
 
-1. The movement of Earth's plates
-          - These are sudden and unexpected
-          - Ex.) Volcanoes, tsunamis, earthquakes
+1. The movement of Earth's plates <br>
+          - These are sudden and unexpected <br>
+          - Ex.) Volcanoes, tsunamis, earthquakes <br>
 
-2. Weather related disasters
-          - There is some advanced warning, but they cannot be stopped
-          - Ex.) Hurricanes, tornadoes, extreme heat/cold
+2. Weather related disasters <br>
+          - There is some advanced warning, but they cannot be stopped <br>
+          - Ex.) Hurricanes, tornadoes, extreme heat/cold <br>
 
-3. Consequences of extreme weather events
-          - They are the result of extreme, unforeseen disasters
-          - Ex.) Floods, mudslides, landslides
+3. Consequences of extreme weather events <br>
+          - They are the result of extreme, unforeseen disasters <br>
+          - Ex.) Floods, mudslides, landslides <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Active_Margin.svg/2000px-Active_Margin.svg.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Active_Margin.svg/2000px-Active_Margin.svg.png" width="304" height="242">
 
@@ -261,7 +261,7 @@ alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300"
 <p> 
 
 
-REMEMBER: YOU CAN NEVER BE TOO PREPARED!!!
+REMEMBER: YOU CAN NEVER BE TOO PREPARED!!! <br>
 
 
 
