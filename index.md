@@ -17,7 +17,7 @@ Learn about and experience all natural disasters through games and more!</hl>
 
 </p>
 
-<p> Earthquakes </p>
+<!-- <p> Earthquakes </p> -->
 
 
 <!-- </body> -->
