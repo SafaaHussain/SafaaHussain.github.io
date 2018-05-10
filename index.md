@@ -164,62 +164,62 @@ alt="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_199
 
 <p>Hurricanes are one of the deadliest and costliest natural disasters. There are roughly 85 hurricanes a year, but not all of them cause as much damage as Hurricane Katrina which killed 1,836 people and cost $100 BILLION in property damage. In order to be prepared for the disaster, for you never know when it might strike, you should follow the advice below.
 
-1. Create a hurricane kit. 
-It should contain:
+1. Create a hurricane kit. <br>
+It should contain:<br>
     
-     *water (one gallon per person, a week's supply)
+     *water (one gallon per person, a week's supply)<br>
      
-     *non-perishable foods that don't need to be cooked such as:
+     *non-perishable foods that don't need to be cooked such as:<br>
       canned fruits, soups, ready-to-eat canned meats, peanut butter, bread, cereal, oatmeal, crackers, pet food (IF YOU 
-      HAVE A PET: DON'T EAT THIS!!!), lots of Halloween candy, etc.
+      HAVE A PET: DON'T EAT THIS!!!), lots of Halloween candy, etc.<br>
 
-     *cooler for storing food in 
+     *cooler for storing food in <br>
 
-     *cell phone or portable, windup radio
+     *cell phone or portable, windup radio<br>
 
-     *important documents (wills, insurance records, medical records)
+     *important documents (wills, insurance records, medical records)<br>
 
-     *extra clothing (preferably waterproof)
+     *extra clothing (preferably waterproof)<br>
 
-     *cash, LOTS of it! (at least $200)
+     *cash, LOTS of it! (at least $200)<br>
 
-     *personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)
+     *personal hygiene products (toilet paper, shampoo, toothpaste, bath sponge, soap, etc.)<br>
 
-     *blankets and sleeping bags
+     *blankets and sleeping bags<br>
 
      *first aid kit
-	    (tweezers, pocket/utility knife, bandages, gauze, disinfectant wipes, etc.)
+	    (tweezers, pocket/utility knife, bandages, gauze, disinfectant wipes, etc.)<br>
        	
-     *cooking utensils 
+     *cooking utensils <br>
 
-     *matches or firelighter (make sure these are waterproof or in a watertight bag!)
+     *matches or firelighter (make sure these are waterproof or in a watertight bag!)<br>
 
-     *disposable utensils
+     *disposable utensils<br>
 
-     *flashlight with extra batteries
+     *flashlight with extra batteries<br>
 
-     *rolls of heavy plastic or heavy duty plastic bags
+     *rolls of heavy plastic or heavy duty plastic bags<br>
      
-     *life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)
+     *life vests, whistles, and flares (Be careful not to light your hair on fire! or your clothes...)<br>
 
-     *hand-operated can opener
+     *hand-operated can opener<br>
 
-     *shovels 
+     *shovels<br> 
 
-     *heavy rope
+     *heavy rope<br>
 
-     *prescription medicine (inhalers, allergy medicine, Tylenol, etc.) 
+     *prescription medicine (inhalers, allergy medicine, Tylenol, etc.) <br>
 
-     *insect repellant (For those nasty misquotes!) 
+     *insect repellant (For those nasty misquotes!) <br>
 
      *board games, funny cat pictures, or other activities to keep yourself from dying from boredom (if you bring 
-      Monopoly, make sure to bring extra money so you can help yourself... wink wink)
+      Monopoly, make sure to bring extra money so you can help yourself... wink wink)<br>
 
-2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!
+2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!<br>
 <img src="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/"
 alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300" height="400">
-3. Protect your home! 
-	Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.
+3. Protect your home! <br>
+	Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.<br>
 
 
 </p>
