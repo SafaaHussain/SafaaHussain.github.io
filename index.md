@@ -1,9 +1,12 @@
-
+<!DOCTORTYPE html>
 <html>
 <head>
 
 </head>
 <body>
+	
+<p><a href="#Earthquakes">Jump to Earthquakes</a></p>
+
 <body style="background-color:powderblue;">
 <font color="black">
 <h1> Home </h1>
@@ -31,6 +34,8 @@ Learn about and experience all natural disasters through games and more!</hl>
 </head>
 <body>
 <body style ="background-color: blue;">
+
+<h2 id="Earthquakes">Earthquakes</h2>
 
 <h1>Preparing for Earthquakes</h1>
 
