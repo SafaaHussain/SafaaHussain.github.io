@@ -216,8 +216,8 @@ It should contain:<br>
       Monopoly, make sure to bring extra money so you can help yourself... wink wink)<br>
 
 2. Evacuate as soon as the local officials tell you! Don't wait until the last minute!<br>
-<img src="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/"
-alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300" height="400">
+<img src="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/"<br>
+alt="https://pixabay.com/en/hurricane-evacuation-route-arrow-43880/" width="300" height="400"><br>
 3. Protect your home! <br>
 	Even if you don't live close to the coast, make sure to keep your house protected by trimming any low hanging branches, fixing any broken doors or windows, and making sure the foundation is stable.<br>
 
