@@ -57,7 +57,7 @@ https://www.wikihow.com/Prepare-for-an-Earthquake
  </p>
 
 </body>
-</html>
+<!-- </html>-->
 
 
 <head>
@@ -104,7 +104,7 @@ Special thanks to: http://prevention1st.org/7-simple-steps-for-fire-safety/
 
 
 </body>
-</html>
+<!-- </html> -->
 
 <!.DOCTYPE html>
 <html>
@@ -149,7 +149,7 @@ What to do: <br>
 
 
 </body>
-</html>
+<!-- </html>-->
 
 <!DOCTYPE html>
 <html>
