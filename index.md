@@ -162,7 +162,7 @@ What to do: <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_1996.jpg"
 alt="https://upload.wikimedia.org/wikipedia/commons/8/8b/Hurricane_Fran_sept_1996.jpg" width="450" height="400">
 
-<p>Hurricanes are one of the deadliest and costliest natural disasters. There are roughly 85 hurricanes a year, but not all of them cause as much damage as Hurricane Katrina which killed 1,836 people and cost $100 BILLION in property damage. In order to be prepared for the disaster, for you never know when it might strike, you should follow the advice below.
+<p>Hurricanes are one of the deadliest and costliest natural disasters. There are roughly 85 hurricanes a year, but not all of them cause as much damage as Hurricane Katrina which killed 1,836 people and cost $100 BILLION in property damage. In order to be prepared for the disaster, for you never know when it might strike, you should follow the advice below.<br>
 
 1. Create a hurricane kit. <br>
 It should contain:<br>
