@@ -156,7 +156,7 @@ What to do: <br>
 </body>
 <!-- </html>-->
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html>
 <head>
 <title> HURRICANES </title>
